@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc5849d6-cb1b-49ec-8e78-b1ea2282b5c1" name="Changes" comment="$ and const (define)">
-      <change afterPath="$PROJECT_DIR$/4 (DataTypes)/index.php" afterDir="false" />
+    <list default="true" id="dc5849d6-cb1b-49ec-8e78-b1ea2282b5c1" name="Changes" comment="DataTypes">
+      <change afterPath="$PROJECT_DIR$/Operators/Math.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,13 +38,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\It-incubator\OpenServer\domains\second.site" />
       <recent name="C:\It-incubator\OpenServer\domains\second.site\3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -52,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647605248108</updated>
-      <workItem from="1647605249237" duration="6088000" />
+      <workItem from="1647605249237" duration="6484000" />
+      <workItem from="1648152854696" duration="1836000" />
     </task>
     <task id="LOCAL-00001" summary="$ and const (define)">
       <created>1647609828325</created>
@@ -61,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647609828325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DataTypes">
+      <created>1647611875082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647611875082</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="$ and const (define)" />
-    <option name="LAST_COMMIT_MESSAGE" value="$ and const (define)" />
+    <MESSAGE value="DataTypes" />
+    <option name="LAST_COMMIT_MESSAGE" value="DataTypes" />
   </component>
 </project>
