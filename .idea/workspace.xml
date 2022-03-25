@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc5849d6-cb1b-49ec-8e78-b1ea2282b5c1" name="Changes" comment="Math Operators">
-      <change afterPath="$PROJECT_DIR$/6 PHP Control Structures. Terms/index.php" afterDir="false" />
+    <list default="true" id="dc5849d6-cb1b-49ec-8e78-b1ea2282b5c1" name="Changes" comment="PHP Control Structures. Terms">
+      <change afterPath="$PROJECT_DIR$/7 PHP Control Structures. While do While/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/Math.php" beforeDir="false" afterPath="$PROJECT_DIR$/5 Operators/Math.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,16 @@
       <recent name="C:\It-incubator\OpenServer\domains\second.site\2\2" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="HW.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/7 PHP Control Structures. While do While/HW.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.HW.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +73,7 @@
       <updated>1647605248108</updated>
       <workItem from="1647605249237" duration="6484000" />
       <workItem from="1648152854696" duration="1855000" />
-      <workItem from="1648233299954" duration="2108000" />
+      <workItem from="1648233299954" duration="5807000" />
     </task>
     <task id="LOCAL-00001" summary="$ and const (define)">
       <created>1647609828325</created>
@@ -87,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648155158215</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PHP Control Structures. Terms">
+      <created>1648236180265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648236180265</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +124,7 @@
     <MESSAGE value="$ and const (define)" />
     <MESSAGE value="DataTypes" />
     <MESSAGE value="Math Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Math Operators" />
+    <MESSAGE value="PHP Control Structures. Terms" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP Control Structures. Terms" />
   </component>
 </project>
