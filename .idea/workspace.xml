@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc5849d6-cb1b-49ec-8e78-b1ea2282b5c1" name="Changes" comment="DataTypes">
-      <change afterPath="$PROJECT_DIR$/Operators/Math.php" afterDir="false" />
+    <list default="true" id="dc5849d6-cb1b-49ec-8e78-b1ea2282b5c1" name="Changes" comment="Math Operators">
+      <change afterPath="$PROJECT_DIR$/6 PHP Control Structures. Terms/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/Math.php" beforeDir="false" afterPath="$PROJECT_DIR$/5 Operators/Math.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647605248108</updated>
       <workItem from="1647605249237" duration="6484000" />
-      <workItem from="1648152854696" duration="1836000" />
+      <workItem from="1648152854696" duration="1855000" />
+      <workItem from="1648233299954" duration="2108000" />
     </task>
     <task id="LOCAL-00001" summary="$ and const (define)">
       <created>1647609828325</created>
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647611875082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Math Operators">
+      <created>1648155158215</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648155158215</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="$ and const (define)" />
     <MESSAGE value="DataTypes" />
-    <option name="LAST_COMMIT_MESSAGE" value="DataTypes" />
+    <MESSAGE value="Math Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math Operators" />
   </component>
 </project>
